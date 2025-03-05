@@ -248,3 +248,4 @@ dev = ["argcomplete", "attrs (>=19.2)", "hypothesis (>=3.56)", "mock", "pygments
 lock-version = "2.1"
 python-versions = ">=3.12"
 content-hash = "2dd3a4ad6f8bf16125300afd8f3cbe2fd4d5265ae77b2102eaaff901f852063d"
+
