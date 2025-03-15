@@ -28,4 +28,3 @@ class Library:
             if book.inn == book_inn:
                 self.list_book.remove(book)
                 break
-

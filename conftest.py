@@ -13,4 +13,3 @@ def book() -> Book:
 def library() -> Library:
     library = Library(name="KSD")
     return library
-
