@@ -28,3 +28,4 @@ class TestLibrary:
         assert book in library.list_book
         library.delete_book(book_inn=book.inn)
         assert book not in library.list_book
+
